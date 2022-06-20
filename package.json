@@ -1,0 +1,19 @@
+{
+  "name": "cypress-typescript",
+  "version": "1.0.0",
+  "description": "Starter kit for cypress in Typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run"
+  },
+  "keywords": [
+    "Cypress",
+    "Typescript"
+  ],
+  "author": "Aaron Williams",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^10.1.0",
+    "typescript": "^4.7.4"
+  }
+}
